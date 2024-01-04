@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, my name is Federico Millot 👋
+## Student of Information Technology Analysis
 
-<!--
-**FedeMi93/FedeMi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I began my formal career as a software developer in 2022, pursuing a degree in Information Technology Analysis.
 
-Here are some ideas to get you started:
+Additionally, I have been working as an air traffic controller since 2018 🛫🛬 This role keeps me constantly engaged with new technology and advancements. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologys:
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-27C600?logo=csharp&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-001558))]()
+</br>
+[![CSS](https://img.shields.io/badge/CSS-C60000?logo=css3&logoColor=white&labelColor=101010))]()
+[![React](https://img.shields.io/badge/React-9500F7?logo=react&logoColor=white&labelColor=101010)]()
+
+</br>
+Y alguna más...
+

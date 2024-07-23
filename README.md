@@ -1,9 +1,9 @@
 ### Hi there, my name is Federico Millot 👋
-## Student of Information Technology Analysis
+## I'm a student of Information Technology Analysis.
 
 I began my formal career as a software developer in 2022, pursuing a degree in Information Technology Analysis.
 
-Additionally, I have been working as an air traffic controller since 2018 🛫🛬 This role keeps me constantly engaged with new technology and advancements. 
+Additionally, I've been working as an air traffic controller since 2018 🛫🛬. This role keeps me constantly engaged with new technology and advancements. 
 
 ## Technologys:
 
